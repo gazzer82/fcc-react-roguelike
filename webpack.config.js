@@ -74,7 +74,7 @@ module.exports = {
     new webpack.NoErrorsPlugin(),
     new HtmlWebpackPlugin({
       template: 'underscore-template-loader!./html/index_template.html',
-      title: 'React Starter',
+      title: 'FCC React Roguelike',
       inject: 'body',
       filename: '../index.html'
     })

@@ -1,4 +1,4 @@
-# ReactStarter
+# Free Code Camp Roguelike React project
 
 #### A template for my new React projects, early work in progress.
 
